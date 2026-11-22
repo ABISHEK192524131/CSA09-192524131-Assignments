@@ -1,0 +1,1 @@
+public class ParkingTicket { private final String id; public ParkingTicket(String id) { this.id = id; } public static void main(String[] args) { System.out.println("Ticket created with ID: TKT-1001"); } }

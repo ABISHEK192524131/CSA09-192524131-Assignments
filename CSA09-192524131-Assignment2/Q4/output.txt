@@ -1,0 +1,4 @@
+COMMAND: PS> javac PharmacyInventory.java
+COMMAND: PS> java PharmacyInventory
+OUTPUT:
+ConcurrentHashMap: 4 counters concurrent dispensing without lock contention.

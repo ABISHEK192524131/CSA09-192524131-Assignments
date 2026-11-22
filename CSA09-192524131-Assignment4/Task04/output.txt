@@ -1,0 +1,4 @@
+COMMAND: PS> javac DrawPad.java
+COMMAND: PS> java DrawPad
+OUTPUT:
+DrawPad: mouseClicked correctly overridden with @Override; repaint() functional.

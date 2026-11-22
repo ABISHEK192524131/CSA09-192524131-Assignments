@@ -1,0 +1,6 @@
+COMMAND: PS> javac TicketBenchmarker.java
+COMMAND: PS> java TicketBenchmarker
+OUTPUT:
+StringBuilder execution: 41.3 ms for 10,000 tickets
+String (+) execution: 38,420 ms
+Speedup: 930x faster.

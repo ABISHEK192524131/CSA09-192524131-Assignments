@@ -1,0 +1,4 @@
+COMMAND: PS> javac AbstractVehicle.java
+COMMAND: PS> java AbstractVehicle
+OUTPUT:
+Abstract base constraints enforced.

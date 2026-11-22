@@ -1,0 +1,5 @@
+COMMAND: PS> javac Attendance.java
+COMMAND: PS> java Attendance
+OUTPUT:
+Unique Attendance Size: 1
+[SUCCESS] Duplicate correctly prevented by consistent hashCode().

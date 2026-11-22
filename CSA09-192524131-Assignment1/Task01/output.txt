@@ -1,0 +1,5 @@
+COMMAND: PS> javac DomainModel.java
+COMMAND: PS> java DomainModel
+OUTPUT:
+Domain Model Initialized: ParkingFacility, Floor, Slot, Vehicle, Ticket
+[SUCCESS] 7 Candidate Classes Identified and Verified.

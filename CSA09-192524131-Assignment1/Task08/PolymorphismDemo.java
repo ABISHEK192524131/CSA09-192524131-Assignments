@@ -1,0 +1,1 @@
+interface Chargeable { double fee(int k); } public class PolymorphismDemo { public static void main(String[] args) { Chargeable c = k -> k * 8.5; System.out.println("EV Charging Rate: Rs. " + c.fee(10)); } }

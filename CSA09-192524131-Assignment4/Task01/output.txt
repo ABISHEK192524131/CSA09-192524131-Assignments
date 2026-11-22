@@ -1,0 +1,4 @@
+COMMAND: PS> javac FeeWindowRepaired.java
+COMMAND: PS> java FeeWindowRepaired
+OUTPUT:
+FeeWindow repaired: Background thread offloaded from EDT.

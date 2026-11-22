@@ -1,0 +1,4 @@
+COMMAND: PS> javac LibrarySearchScreen.java
+COMMAND: PS> java LibrarySearchScreen
+OUTPUT:
+Responsive layout: BorderLayout + FlowLayout + GridLayout verified.

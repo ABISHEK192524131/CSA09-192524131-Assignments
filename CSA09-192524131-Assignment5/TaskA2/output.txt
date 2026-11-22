@@ -1,0 +1,4 @@
+COMMAND: PS> javac BufferedLineCounter.java
+COMMAND: PS> java BufferedLineCounter
+OUTPUT:
+BufferedReader: 46.7x speedup over byte-by-byte read.

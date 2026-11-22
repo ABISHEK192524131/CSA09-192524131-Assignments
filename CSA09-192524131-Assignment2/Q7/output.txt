@@ -1,0 +1,5 @@
+COMMAND: PS> javac FairTriageEngine.java
+COMMAND: PS> java FairTriageEngine
+OUTPUT:
+Aging boost applied: Category 4 patient elevated after 30 mins.
+[PASSED] Starvation eliminated.

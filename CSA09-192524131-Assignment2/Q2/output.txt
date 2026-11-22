@@ -1,0 +1,4 @@
+COMMAND: PS> javac ListBenchmarker.java
+COMMAND: PS> java ListBenchmarker
+OUTPUT:
+ArrayList get(i) O(1) cache hits: 100% | LinkedList node overhead: 24 bytes

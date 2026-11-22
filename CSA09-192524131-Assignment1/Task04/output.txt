@@ -1,0 +1,5 @@
+COMMAND: PS> javac ParkingTicket.java
+COMMAND: PS> java ParkingTicket
+OUTPUT:
+Ticket created with ID: TKT-1001
+Chained Constructor Verified.

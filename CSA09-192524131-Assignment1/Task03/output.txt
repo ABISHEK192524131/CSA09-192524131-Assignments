@@ -1,0 +1,8 @@
+COMMAND: PS> javac ParkingFacility.java
+COMMAND: PS> java ParkingFacility
+OUTPUT:
+Allocated TN-01-AB-1234: true
+Fee for 30 mins (Visitor): Rs. 20.0
+Fee for 150 mins (Visitor): Rs. 30.0
+Fee for 150 mins (Passholder): Rs. 0.0
+[SUCCESS] All tests passed.

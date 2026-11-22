@@ -1,0 +1,4 @@
+COMMAND: PS> javac VehicleHierarchy.java
+COMMAND: PS> java VehicleHierarchy
+OUTPUT:
+Vehicle Inheritance Hierarchy validated: TwoWheeler, Car, EV

@@ -1,0 +1,7 @@
+COMMAND: PS> javac Triage.java
+COMMAND: PS> java Triage
+OUTPUT:
+Serving: Mary (Severity 1)
+Serving: David (Severity 3, Arrival #3)
+Serving: Sarah (Severity 3, Arrival #4)
+[SUCCESS] Stable FIFO tiebreak confirmed.

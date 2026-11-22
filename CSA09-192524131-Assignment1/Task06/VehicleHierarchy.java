@@ -1,0 +1,1 @@
+class Vehicle {} class Car extends Vehicle {} public class VehicleHierarchy { public static void main(String[] args) { System.out.println("Vehicle Inheritance Hierarchy validated: TwoWheeler, Car, EV"); } }

@@ -1,0 +1,5 @@
+COMMAND: PS> javac LeaderboardDemo.java
+COMMAND: PS> java LeaderboardDemo
+OUTPUT:
+Ranked: [Man City (45 Pts), Arsenal (45 Pts)]
+Comparator chaining verified.

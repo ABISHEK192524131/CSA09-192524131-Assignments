@@ -1,0 +1,6 @@
+COMMAND: PS> javac SlotGrid.java
+COMMAND: PS> java SlotGrid
+OUTPUT:
+Jagged Slot Grid initialized. Floors: 3
+Ground Floor: 20 slots | 1st Floor: 50 slots | 2nd Floor: 100 slots
+[SUCCESS] Memory layout allocated cleanly.

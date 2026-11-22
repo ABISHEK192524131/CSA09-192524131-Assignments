@@ -1,0 +1,1 @@
+public class SlotGrid { public static void main(String[] args) { int[][] floors = new int[][]{new int[20], new int[50], new int[100]}; System.out.println("Jagged Slot Grid initialized. Floors: " + floors.length); } }

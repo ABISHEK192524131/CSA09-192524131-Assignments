@@ -1,0 +1,4 @@
+COMMAND: PS> javac AppointmentDesk.java
+COMMAND: PS> java AppointmentDesk
+OUTPUT:
+Outpatient Desk: ItemListener reloads available doctor slots.

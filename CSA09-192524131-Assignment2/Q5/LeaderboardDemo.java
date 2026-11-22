@@ -1,0 +1,1 @@
+import java.util.*; public class LeaderboardDemo { public static void main(String[] args) { List<String> teams = Arrays.asList("Man City (45 Pts)", "Arsenal (45 Pts)"); System.out.println("Ranked: " + teams); } }

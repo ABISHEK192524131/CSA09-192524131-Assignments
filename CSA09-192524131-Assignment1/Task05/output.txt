@@ -1,0 +1,5 @@
+COMMAND: PS> javac OccupancyCounter.java
+COMMAND: PS> java OccupancyCounter
+OUTPUT:
+Global Occupancy Counter: 1
+Static Metaspace Variable Verified.

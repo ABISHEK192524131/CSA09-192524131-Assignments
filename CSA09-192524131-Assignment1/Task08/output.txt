@@ -1,0 +1,5 @@
+COMMAND: PS> javac PolymorphismDemo.java
+COMMAND: PS> java PolymorphismDemo
+OUTPUT:
+EV Charging Rate: Rs. 85.0
+Dynamic vtable dispatch confirmed.

@@ -1,0 +1,4 @@
+COMMAND: PS> javac BusPassDaoDemo.java
+COMMAND: PS> java BusPassDaoDemo
+OUTPUT:
+BusPassDao interface cleanly decouples service from persistence.
